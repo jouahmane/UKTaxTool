@@ -9,9 +9,9 @@ const Header = () => {
           <Row>
             <h1>
               <strong>
-                <span className="text-primary">Cool</span>
+                <span className="text-primary">UK</span>
                 <span className="text-danger">Tax</span>
-                <span className="text-primary">Tool</span>
+                <span className="text-primary">Calculator</span>
               </strong>
             </h1>
           </Row>
